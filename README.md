@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Harsh Rajpal
-- 👀 I’m interested in Full stack development and ethical hacking
+- 👀 I’m interested in Full stack web development and ethical hacking.
 - 🌱 I’m currently learning Front-enf web development
 - 📫 You can contact me @harshrajpal2k18@gmail.com
 
