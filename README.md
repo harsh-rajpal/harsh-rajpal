@@ -17,9 +17,12 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=harsh-rajpal.harsh-rajpal)
 
 
-👋 Hi, I’m Harsh Rajpal
-🕸I am studying CSE with Specialization in Cyber Security at VIT, Vellore. 
+👋 Hi, I’m Harsh Rajpal.
+
+🕸I am studying CSE with Specialization in Cyber Security at VIT, Vellore.
+
 🌱 I’m currently learning Front-end web development
+
 👀 I’m interested in Full stack web development and ethical hacking.
 
 
