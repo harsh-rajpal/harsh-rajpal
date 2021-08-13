@@ -47,6 +47,7 @@
 ## 📈 My GitHub Stats
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=harsh-rajpal&show_icons=true&theme=gotham" alt="harsh-rajpal" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-rajpal&layout=compact&theme=radical)](https://github.com/harsh-rajpal/github-readme-stats)
 
 
 
