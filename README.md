@@ -19,7 +19,7 @@
 
 👋 Hi, I’m Harsh Rajpal.
 
-🕸I am studying CSE with Specialization in Cyber Security at VIT, Vellore.
+🕸I am studying CSE with Specialization in Information Security at VIT, Vellore.
 
 🌱 I’m currently learning Front-end web development
 
