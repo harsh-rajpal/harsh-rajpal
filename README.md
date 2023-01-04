@@ -47,8 +47,9 @@
 
  
 ## 📈 My GitHub Stats
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=harsh-rajpal&show_icons=true&theme=gotham" alt="harsh-rajpal" />
+![](https://github-readme-stats.vercel.app/api?username=harsh-rajpal&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=harsh-rajpal&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-rajpal&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
