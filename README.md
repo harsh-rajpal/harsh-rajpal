@@ -1,6 +1,6 @@
 # Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Harsh Rajpal here! 
 <a href="https://www.linkedin.com/in/harsh-rajpal/">
-  <img align="left" alt="Harsh's Linkedin" width="20px" src="https://www.svgrepo.com/show/922/linkedin.svg" />
+  <img align="left" alt="Harsh's Linkedin" width="20px" src="https://cdn.pixabay.com/photo/2016/11/18/11/16/social-1834011_1280.png" />
 </a>
 <a href="https://www.instagram.com/_harshrajpal_/">
   <img align="left"  width="22px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />
