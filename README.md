@@ -19,11 +19,11 @@
 
 👋 Hi, I’m Harsh Rajpal.
 
-🕸I am studying CSE with Specialization in Information Security at VIT, Vellore.
+🕸I am Engineering Analyst at Pepsico. I did my B.Tech in CSE with Specialization in Information Security at VIT, Vellore.
 
-🌱 I’m currently learning Front-end web development
+🌱 To check my latest acheivements check - https://www.linkedin.com/in/harsh-rajpal/
 
-👀 I’m interested in Full stack web development and ethical hacking.
+👀 I’m interested in full-stack web development and ethical hacking.
 
 
  <br>
